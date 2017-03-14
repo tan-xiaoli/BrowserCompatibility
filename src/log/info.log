@@ -1,0 +1,81 @@
+INFO	2016-12-21 18:18:51	[server.py:162]	run_task
+INFO	2016-12-21 18:18:54	[server.py:162]	run_task
+INFO	2016-12-21 18:18:58	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+ERROR	2016-12-21 18:18:58	[server.py:167]	000..........................................False
+ERROR	2016-12-21 18:18:58	[server.py:168]	{"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 18:18:58	[server.py:169]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+ERROR	2016-12-21 18:18:58	[server.py:89]	Invoke xiaomi 3: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+ERROR	2016-12-21 18:18:58	[server.py:95]	1
+ERROR	2016-12-21 18:19:24	[server.py:97]	2
+INFO	2016-12-21 18:43:22	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+ERROR	2016-12-21 18:43:22	[server.py:167]	000..........................................False
+ERROR	2016-12-21 18:43:22	[server.py:168]	{"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 18:43:22	[server.py:169]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+ERROR	2016-12-21 18:43:22	[server.py:89]	Invoke xiaomi 3: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+ERROR	2016-12-21 18:43:22	[server.py:95]	1
+ERROR	2016-12-21 18:43:47	[server.py:97]	2
+INFO	2016-12-21 18:50:21	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 18:50:21	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}
+ERROR	2016-12-21 18:50:21	[server.py:167]	000..........................................False
+ERROR	2016-12-21 18:50:21	[server.py:168]	{"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 18:50:21	[server.py:169]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+ERROR	2016-12-21 18:50:21	[server.py:89]	Invoke xiaomi 3: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+ERROR	2016-12-21 18:50:21	[server.py:95]	1
+ERROR	2016-12-21 18:50:46	[server.py:97]	2
+INFO	2016-12-21 18:57:26	[server.py:162]	run_task
+INFO	2016-12-21 18:57:28	[server.py:162]	run_task
+INFO	2016-12-21 18:57:47	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 18:57:47	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}
+ERROR	2016-12-21 18:57:47	[server.py:167]	000..........................................False
+ERROR	2016-12-21 18:57:47	[server.py:168]	{"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 18:57:47	[server.py:169]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+ERROR	2016-12-21 18:57:47	[server.py:89]	Invoke xiaomi 3: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 18:57:47	[server.py:177]	111...............................................
+ERROR	2016-12-21 18:57:47	[server.py:95]	1
+INFO	2016-12-21 18:57:47	[server.py:179]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}.
+ERROR	2016-12-21 18:58:16	[server.py:97]	2
+INFO	2016-12-21 19:01:13	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:01:13	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}
+ERROR	2016-12-21 19:01:13	[server.py:167]	000..........................................False
+ERROR	2016-12-21 19:01:13	[server.py:168]	{"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:01:13	[server.py:169]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+INFO	2016-12-21 19:01:13	[server.py:177]	111...............................................
+ERROR	2016-12-21 19:01:13	[server.py:89]	Invoke xiaomi 3: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:01:13	[server.py:179]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}.
+ERROR	2016-12-21 19:01:13	[server.py:95]	1
+ERROR	2016-12-21 19:01:41	[server.py:97]	2
+INFO	2016-12-21 19:12:54	[server.py:162]	run_task
+INFO	2016-12-21 19:12:57	[server.py:162]	run_task
+INFO	2016-12-21 19:13:56	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:13:56	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "2"}
+INFO	2016-12-21 19:13:57	[server.py:177]	111...............................................
+INFO	2016-12-21 19:13:57	[server.py:179]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}.
+INFO	2016-12-21 19:15:15	[server.py:177]	111...............................................
+INFO	2016-12-21 19:15:15	[server.py:179]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "2"}.
+INFO	2016-12-21 19:18:32	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:18:32	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "2"}
+INFO	2016-12-21 19:18:33	[server.py:166]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+ERROR	2016-12-21 19:18:33	[server.py:89]	Invoke xiaomi 3: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:18:33	[server.py:175]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "2"}.
+ERROR	2016-12-21 19:18:33	[server.py:95]	1
+ERROR	2016-12-21 19:19:01	[server.py:97]	2
+INFO	2016-12-21 19:22:12	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:22:12	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "2"}
+INFO	2016-12-21 19:22:12	[server.py:163]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+INFO	2016-12-21 19:24:22	[server.py:163]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "2"}.
+INFO	2016-12-21 19:27:38	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:27:38	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 3, "link": "www.qq.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "2"}
+INFO	2016-12-21 19:27:38	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 2, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:27:38	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 4, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "2"}
+INFO	2016-12-21 19:27:38	[server.py:163]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.qq.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+INFO	2016-12-21 19:27:38	[server.py:172]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 2, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}.
+INFO	2016-12-21 19:28:33	[server.py:172]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 4, "link": "www.qq.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "2"}.
+INFO	2016-12-21 19:29:50	[server.py:163]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 3, "link": "www.qq.com", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "2"}.
+INFO	2016-12-21 19:36:05	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "http://i.ifeng.com/?ch=ifengweb_2014", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:36:05	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "http://i.ifeng.com/?ch=ifengweb_2014", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "2"}
+INFO	2016-12-21 19:36:06	[server.py:163]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "http://i.ifeng.com/?ch=ifengweb_2014", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "1"}.
+INFO	2016-12-21 19:38:17	[server.py:163]	XIAOMI 3 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "http://i.ifeng.com/?ch=ifengweb_2014", "user": "tanxiaoli", "device": "1", "method": "browse", "browser": "2"}.
+INFO	2016-12-21 19:48:19	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}
+INFO	2016-12-21 19:48:20	[server.py:172]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.baidu.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}.
+INFO	2016-12-21 20:00:12	[server.py:76]	Accept request: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.ifeng.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}
+INFO	2016-12-21 20:00:12	[server.py:172]	HUAWEI Mate 8 Task: {"pid": "real_monitor", "pid_name": "real_monitor", "scroll_time": 5, "link": "www.ifeng.com", "user": "tanxiaoli", "device": "2", "method": "browse", "browser": "1"}.
