@@ -16,16 +16,13 @@
 
 ![](website/static/framework.png)
 
-- 用户通过[Web页面](#homepage)设定任务(设备、浏览器、下拉次数、访问URL)
+- 用户通过Web页面设定任务(设备、浏览器、下拉次数、访问URL)
 - WebServer通过Celery实现异步任务发布、调用
 - Appium实现测试的执行、结果的收集(截图)
 - PHP Form实现截图的上传
 - Ajax实现页面自动刷刚上传的截图
 
 ---
-<span id="homepage">
-</span>
-
 ## 项目页面
 
 ![](website/static/homepage.png)
